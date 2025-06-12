@@ -1,0 +1,6 @@
+[
+  {"id": "c1", "text": "This video is amazing!", "author": "UserA"},
+  {"id": "c2", "text": "Worst video ever. Waste of time.", "author": "UserB"},
+  {"id": "c3", "text": "I learned so much, thank you!", "author": "UserC"},
+  {"id": "c4", "text": "Meh. Could’ve been better.", "author": "UserD"}
+]
